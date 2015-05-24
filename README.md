@@ -1,7 +1,7 @@
 # Linux-Sunxi-Kernel-for-Docker
 For pcduino3 nano (Allwinner A20)
 
-Kernel sunxi-v3.4.103-r1 configured for Docker. 
+Kernel sunxi-v3.4.103-r1 configured for Docker. (no overlay or aufs)
 Tested only with archlinux. 
 
 I can upload the modules as well as the config if needed. 
